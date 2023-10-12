@@ -1,0 +1,48 @@
+GIMP Palette
+Name: unbColorPalleteFull
+#
+  0  90  28 #VerdeEscuro
+ 99 163 112 #VerdeEscuro50
+171 206 172 #VerdeEscuro25
+  0 130  46 #VerdeUnB
+116 191 131 #VerdeUnB50  
+183 222 185 #VerdeUnB25 
+152 192   0 #VerdeMedio
+191 229 136 #VerdeMedio50
+223 242 193 #VerdeMedio25
+186 210 102 #VerdeClaro
+211 237 169 #VerdeClaro50
+233 246 211 #VerdeClaro25
+253 202   0 #AmareloMedio
+254 225 124 #AmareloMedio50
+255 240 188 #AmareloMedio25
+255 237   0 #AmareloPuro
+255 249 128 #AmareloPuro50
+255 252 191 #AmareloPuro25
+  0  58 122 #AzulUnB
+112 128 180 #AzulUnB50
+177 183 216 #AzulUnB25
+  0 104 180 #AzulMedio
+131 167 221 #AzulMedio50
+191 207 238 #AzulMedio25
+  0 166 235 #CianoPuro
+128 214 247 #CianoPuro50
+191 235 251 #CianoPuro25
+ 46  29 134 #AzulVioleta
+134 119 195 #AzulVioleta50
+191 179 224 #AzulVioleta25
+  0 160 167 #AzulEsverdeado
+128 212 206 #AzulEsverdeado50
+191 234 228 #AzulEsverdeado25
+126 126 101 #Concreto1
+173 173 152 #Concreto2
+217 217 206 #Concreto3
+237 237 223 #Concreto4
+  0   0   0 #PretoPreto
+ 29  29  29 #Preto  
+ 93  93  93 #Preto75
+152 152 152 #Preto50
+208 208 208 #Preto25
+238 238 238 #Preto10
+246 246 246 #Preto05 
+255 255 255 #Branco
